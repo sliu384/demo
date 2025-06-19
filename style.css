@@ -1,0 +1,28 @@
+body {
+  margin: 20%;
+  text-align: center;
+}
+
+main {
+  max-width: 256px;
+  margin: auto;
+  /* border: 1px solid black; */
+}
+
+.lyrics-image {
+  width: 100%;
+}
+
+.lyrics {
+  text-align: left;
+}
+
+html {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: rgb(255, 147, 147);
+}
+}
+
+/* what the helly */
